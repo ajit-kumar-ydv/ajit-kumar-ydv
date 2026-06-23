@@ -1,6 +1,6 @@
 # Hi there, I'm AJIT KUMAR 👋
 
-Welcome to my GitHub profile! I am a passionate B.Tech student documenting my daily coding journey and building production-ready skills.
+Welcome to my GitHub profile! I am a passionate BSC-IT student documenting my daily coding journey and building production-ready skills.
 
 ## 🚀 What I'm Working On:
 - 💻 **C++ & Data Structures & Algorithms** (Masterclass)
