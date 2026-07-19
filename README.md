@@ -30,7 +30,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/ajit-kumar-ydv
-- LinkedIn: https://linkedin.com/ajit-kumar-ydv
+- LinkedIn: https://www.linkedin.com/in/ajit-kumar-ydv
 
 ---
 ⭐ Thanks for visiting my profile!
