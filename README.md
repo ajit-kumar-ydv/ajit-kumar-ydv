@@ -1,12 +1,37 @@
-# Hi there, I'm AJIT KUMAR 👋
+# Hi 👋, I'm Ajit Kumar
 
-Welcome to my GitHub profile! I am a passionate BSC-IT student documenting my daily coding journey and building production-ready skills.
+## 🚀 Aspiring Full-Stack Web Developer
 
-## 🚀 What I'm Working On:
-- 💻 **C++ & Data Structures & Algorithms** (Masterclass)
-- 🐍 **Python Programming** (100 Days Challenge)
-- 🌐 **Full-Stack Web Development** (Frontend, Backend and Database)
+🎓 B.Sc. IT (2025–2028)
 
-## 📊 My Commitment:
-Pushing code daily to keep my streak green and consistently turning logic into reality.
+💻 Currently Learning:
+- C++
+- Data Structures & Algorithms
+- HTML, CSS, JavaScript
+- Full Stack Web Development
+
+🌱 Current Goal
+- Build real-world full-stack projects
+- Solve DSA problems daily
+- Contribute to open source
+- Become a Software Engineer
+
+## 🛠️ Tech Stack
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📌 Featured Projects
+- 🧵 ThreadCo – Full Stack Clothing Website
+- 🌐 Full Stack Web Development Practice
+
+## 📫 Connect with Me
+- GitHub: https://github.com/ajit-kumar-ydv
+- LinkedIn: https://linkedin.com/ajit-kumar-ydv
+
+---
+⭐ Thanks for visiting my profile!
 
