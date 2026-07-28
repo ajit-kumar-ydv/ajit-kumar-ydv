@@ -30,7 +30,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/ajit-kumar-ydv
-- LinkedIn: https://www.linkedin.com/in/ajit-kumar-ydv
+- LinkedIn: 
 - HackerRank: https://www.hackerrank.com/profile/Ajit_Kumar_ydv
 - LeetCode: https://www.leetcode.com/u/Ajit_Kumar_ydv
   
